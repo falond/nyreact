@@ -63,3 +63,9 @@ typings/
 .env.development.local
 .env.test.local
 .env.production.local
+
+# testing
+/coverage
+
+# production
+/build
